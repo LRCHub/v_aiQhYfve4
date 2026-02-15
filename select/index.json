@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Vivid Night",
+  "base_artist": "Nor",
+  "createdAt": "2026-02-15T15:29:33.082039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/01_All_Night_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/02_All_Night_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Steve Aoki feat. Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/03_All_Night_Steve_Aoki_feat._Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Steve Aoki.;Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/04_All_Night_Steve_Aoki.;Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Night To Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/05_All_Night_To_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Champagne Night - From Songland",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/06_Champagne_Night_-_From_Songland_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Champagne Night (From Songland)",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/07_Champagne_Night_(From_Songland)_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Night Lonely",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/08_Last_Night_Lonely_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Saturday Night",
+      "artist": "Jon Pardi",
+      "has_synced": false,
+      "path": "select/09_Mr._Saturday_Night_Jon_Pardi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Night Shift",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/10_Night_Shift_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's My Kind Of Night",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/11_That's_My_Kind_Of_Night_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Took The Words Right Out of My Mouth (Hot Summer Night)",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/12_You_Took_The_Words_Right_Out_of_My_Mouth_(Hot_Summer_Night)_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Night Sky",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/13_Night_Sky_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/14_A_Night_to_Remember_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Night To Remember (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/15_A_Night_To_Remember_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Night Long",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/16_All_Night_Long_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All You, All Night, All Summer",
+      "artist": "Adam Hambrick",
+      "has_synced": true,
+      "path": "select/17_All_You,_All_Night,_All_Summer_Adam_Hambrick.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nightborn",
+      "artist": "Nordheim",
+      "has_synced": false,
+      "path": "select/pl_01_Nightborn_Nordheim.txt"
+    }
+  ]
+}
